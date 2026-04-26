@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### PHẦN A
 Câu A1:
 1. Các bước xảy ra khi gõ https://shopee.vn vào trình duyệt và nhấn Enter
@@ -83,4 +84,3 @@ Câu A4:
     - Cấu trúc lồng nhau (table > tr > td > table...) rắc rối, phức tạp và khó bảo trì
 
 * Nguồn tham chiếu: CCC_Frontend_2026/tuan_1_html5/05_tables_hyperlinks.md - 📊 Table — Bảng dữ liệu
-
